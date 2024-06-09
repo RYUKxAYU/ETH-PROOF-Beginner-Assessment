@@ -18,7 +18,7 @@ contract MyToken {
 
     // public variables here
     string public tokenName="Ayush";
-    string public tokenOwner="CU";
+    string public tokenAbbrav="BTC";
     uint public totalSupply=0;
 
     // mapping variable here
